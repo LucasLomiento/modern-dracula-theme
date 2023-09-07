@@ -1,0 +1,20 @@
+{
+  "name": "modern-dracula-theme",
+  "displayName": "Modern Dracula Theme",
+  "description": "A customization of the Dracula theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "LucasLomiento",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lucas Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  }
+}
