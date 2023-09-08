@@ -2,7 +2,7 @@
   "name": "modern-dracula-theme",
   "displayName": "Modern Dracula Theme",
   "description": "A customization of the Dracula theme for VS Code",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "version": "1.0.0",
   "publisher": "LucasLomiento",
   "engines": {
