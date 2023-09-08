@@ -2,6 +2,7 @@
   "name": "modern-dracula-theme",
   "displayName": "Modern Dracula Theme",
   "description": "A customization of the Dracula theme for VS Code",
+  "icon": "./icon.png",
   "version": "1.0.0",
   "publisher": "LucasLomiento",
   "engines": {
@@ -16,5 +17,9 @@
         "path": "./theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasLomiento/modern-dracula-theme.git"
   }
 }
