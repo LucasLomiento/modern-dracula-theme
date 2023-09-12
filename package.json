@@ -3,7 +3,7 @@
   "displayName": "Modern Dracula Theme",
   "description": "A customization of the Dracula theme for VS Code",
   "icon": "icon.jfif",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "LucasLomiento",
   "engines": {
     "vscode": "^1.50.0"
@@ -14,17 +14,22 @@
       {
         "label": "Modern Dracula",
         "uiTheme": "vs-dark",
-        "path": "./Themes/pinkAndPurple/theme.json"
+        "path": "./Themes/PinkAndPurple/theme.json"
       },
       {
-        "label": "Modern Dracula | White And Purple Font",
+        "label": "Modern Dracula | White & Purple",
         "uiTheme": "vs-dark",
         "path": "./Themes/WhiteAndPurple/theme.json"
       },
       {
-        "label": "Modern Dracula | White Font",
+        "label": "Modern Dracula | White",
         "uiTheme": "vs-dark",
         "path": "./Themes/White/theme.json"
+      },
+      {
+        "label": "Modern GitHub | White & Purple ",
+        "uiTheme": "vs-dark",
+        "path": "./Themes/GithubWhiteAndPurple/theme.json"
       }
     ]
   },
