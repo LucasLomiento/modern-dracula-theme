@@ -2,8 +2,8 @@
   "name": "modern-dracula-theme",
   "displayName": "Modern Dracula Theme",
   "description": "A customization of the Dracula theme for VS Code",
-  "icon": "icon.png",
-  "version": "1.0.2",
+  "icon": "icon.jfif",
+  "version": "1.1.0",
   "publisher": "LucasLomiento",
   "engines": {
     "vscode": "^1.50.0"
@@ -12,9 +12,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lucas Theme",
+        "label": "Modern Dracula",
         "uiTheme": "vs-dark",
-        "path": "./theme.json"
+        "path": "./Themes/pinkAndPurple/theme.json"
+      },
+      {
+        "label": "Modern Dracula | White And Purple Font",
+        "uiTheme": "vs-dark",
+        "path": "./Themes/WhiteAndPurple/theme.json"
+      },
+      {
+        "label": "Modern Dracula | White Font",
+        "uiTheme": "vs-dark",
+        "path": "./Themes/White/theme.json"
       }
     ]
   },
